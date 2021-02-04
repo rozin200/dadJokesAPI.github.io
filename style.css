@@ -102,6 +102,7 @@ h3{
 	padding: 14px 40px;
 	font-size: 16px;
 	cursor: pointer;
+	font-family: inherit;
 }
 
 .btn:focus{
